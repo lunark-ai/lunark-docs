@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="./public/images/icons/icon-light.svg" alt="Lunark AI Logo" width="80" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lunark-ai/lunark-web/main/public/images/icons/icon-text-light.svg" alt="Lunark AI Logo" height="120" width="500" />
 </p>
 
 Documentation site for the Lunark AI platform, built with Nextra, Next.js, TypeScript, and Tailwind CSS.
